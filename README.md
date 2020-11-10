@@ -4,7 +4,7 @@ It's a flutter application that displays movies by Using BLoc Pattern and JSON A
 
 ## some vidoes
 <!-- record_1 -->
-![original Design](https://github.com/ahmedeidd/shopLovers/blob/master/screenshots/record_1.gif "Design")
+![original Design](https://github.com/ahmedeidd/Movie-EID-/blob/main/screenshots/record_1.gif "Design")
 
 
 ## Screenshots
